@@ -8,8 +8,8 @@
         "MIN_LOAN_TENURE_MONTHS": 6,
         "MID_LOAN_TENURE_MONTHS": 33,
         "MAX_LOAN_TENURE_MONTHS": 60,
-        "FLAT_INTEREST_RATE": 5.35,
-        "ANNUAL_INTEREST_RATE": 9.75,
+        "FLAT_INTEREST_RATE": 5.32,
+        "ANNUAL_INTEREST_RATE": 9.70,
         "DEFAULT_CURRENCY": "RM"
       }
    },
